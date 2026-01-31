@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://blog.nianhua.gold/posts/</loc>
+    <loc>https://golden-nianhua.github.io/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.nianhua.gold/</loc>
+    <loc>https://golden-nianhua.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

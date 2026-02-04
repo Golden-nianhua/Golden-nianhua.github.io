@@ -2,12 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 年花花のBlog</title>
-    <link>https://golden-nianhua.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 年花花のBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 - 2026 Golden_nianhua All Rights Reserved.</copyright>
-    <atom:link href="https://golden-nianhua.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 23:58:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP-IDF</title>
+      <link>http://localhost:1313/tags/esp-idf/</link>
+      <pubDate>Sat, 31 Jan 2026 23:58:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/esp-idf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ESP8266</title>
+      <link>http://localhost:1313/tags/esp8266/</link>
+      <pubDate>Sat, 31 Jan 2026 23:58:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/esp8266/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Espressif</title>
+      <link>http://localhost:1313/tags/espressif/</link>
+      <pubDate>Sat, 31 Jan 2026 23:58:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/espressif/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
